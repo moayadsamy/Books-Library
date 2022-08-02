@@ -1,3 +1,4 @@
+import Client
 class librarian:
 
     def __init__(self, salary = 0.0):
